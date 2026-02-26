@@ -7,7 +7,6 @@ COLE_AQUI:
 COLE_AQUI: 
 
 3) Link do repositório GitHub:
-COLE_AQUI: 
+COLE_AQUI: https://github.com/Dsilva2302/techchallengefiap-fase4-obesity
 
-4) Link do vídeo (4–10 min):
-COLE_AQUI:
+
