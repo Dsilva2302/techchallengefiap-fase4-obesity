@@ -1,0 +1,13 @@
+Entregáveis - Tech Challenge FIAP (Fase 4)
+
+1) Link da aplicação Streamlit (deploy):
+COLE_AQUI: 
+
+2) Link do painel analítico (Power BI / Looker Studio / etc):
+COLE_AQUI: 
+
+3) Link do repositório GitHub:
+COLE_AQUI: 
+
+4) Link do vídeo (4–10 min):
+COLE_AQUI:
